@@ -1,0 +1,83 @@
+/*selected tag{
+  property: value;
+}*/
+
+/*.container{
+  font-family: "Algerian";
+}*/
+
+
+/*body{
+  background-color: black;
+}*/
+
+#about{
+  font-family: monospace;
+}
+#one{
+  font-family:"Bookman Old Style";
+  font-stretch: ultra-expanded;
+
+}
+
+#season{
+  padding-left: calc((100vw - 1280px) / 1);
+  width: 50%;
+  border-color: blue;
+}
+
+
+#seasonone{
+  padding-left: calc((100vw - 1280px) / 1);
+  border: blue;
+  width: 50%;
+  ;
+}
+a{
+  color: white;
+}
+
+.display-5{
+  font-weight: bolder;
+  text-align: center;
+}
+
+
+footer{
+  padding: 2rem 0;
+  background-color: #212529;
+  // .container .row:not(:last-child) {
+  //   padding-bottom: 2rem;
+  // }
+}
+
+
+span.footer-title{
+      font-size: 14px;
+      font-weight: 700;
+      color: #fff;
+      text-transform: uppercase;
+    }
+
+
+.copyright{
+  color: white;
+}
+
+#foot{
+  border-radius: 55px;
+  /*height: 275px;*/
+  font-size: 1.0em;
+}
+
+#numb{
+  color: white;
+}
+
+body{
+  background: url(https://scontent.fabv2-1.fna.fbcdn.net/v/t1.0-9/91375570_685221222251038_6476160329830105088_n.jpg?_nc_cat=110&ccb=2&_nc_sid=a4a2d7&_nc_eui2=AeGOTbOm2FmPvZVjgJBY9e5L0xFRhi108dLTEVGGLXTx0hQ-deoUbvUzN6Xkeck-nihiNE29pnSpjmwWM8xHbJo6&_nc_ohc=VmtRuhgxsCYAX8Fg2iJ&_nc_ht=scontent.fabv2-1.fna&oh=9995e99784b8765427c4ec646442a831&oe=602408AD)
+  background-repeat: round;
+  background-position:
+  background-size: cover;
+  background-clip: content-box;
+}
